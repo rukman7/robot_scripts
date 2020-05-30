@@ -1,0 +1,1811 @@
+1590691430016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7vscTp"
+1590691430260	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile7vscTp/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691430358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691430358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691430358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691430358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 8735, tid 8735, syscall 315, args 8735 139835218274240 56 0 32 139835218274240.
+Sandbox: seccomp sandbox violation: pid 8760, tid 8760, syscall 315, args 8760 140200148912768 56 0 21 140200148912768.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4d1009c0-e0d7-47af-9f99-17812f4fa7dd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691431623	Marionette	INFO	Listening on port 42843
+1590691431632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691431727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNTcpIr"
+1590691432007	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileNTcpIr/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691432106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691432106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691432106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691432106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 8957, tid 8957, syscall 315, args 8957 140134937036096 56 0 42 140134937036096.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://57a40269-847d-405a-a8cb-3602366aa39f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 8983, tid 8983, syscall 315, args 8983 140524672694976 56 0 20 140524672694976.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691433540	Marionette	INFO	Listening on port 35927
+1590691433647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691433747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ8U6CD"
+1590691433986	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileZ8U6CD/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691434105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691434105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691434106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691434106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9172, tid 9172, syscall 315, args 9172 139753110530496 56 0 23 139753110530496.
+Sandbox: seccomp sandbox violation: pid 9197, tid 9197, syscall 315, args 9197 140533526874880 56 0 19 140533526874880.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7285a6de-a2b7-4ce7-b0c3-448770ac1926/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691435695	Marionette	INFO	Listening on port 38461
+1590691435760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691435842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled7HezB"
+1590691436134	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofiled7HezB/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691436265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691436265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691436265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691436265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9385, tid 9385, syscall 315, args 9385 140291056371008 56 0 42 140291056371008.
+Sandbox: seccomp sandbox violation: pid 9410, tid 9410, syscall 315, args 9410 139686694857344 56 0 21 139686694857344.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f6182c2c-d49c-4bcc-9d72-6e8d198591b8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691437976	Marionette	INFO	Listening on port 43647
+1590691438056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691438188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileygRBD8"
+1590691438470	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileygRBD8/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691438601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691438601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691438601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691438601	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9600, tid 9600, syscall 315, args 9600 140177285043776 56 0 38 140177285043776.
+Sandbox: seccomp sandbox violation: pid 9625, tid 9625, syscall 315, args 9625 140021804980928 56 0 20 140021804980928.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://35c56ec0-b87a-4203-9dfb-921c9cfc6ffc/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691440501	Marionette	INFO	Listening on port 37915
+1590691440603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691440705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJK9U5p"
+1590691441109	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileJK9U5p/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691441252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691441252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691441252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691441253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9832, tid 9832, syscall 315, args 9832 139805310248256 56 0 42 139805310248256.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://89ed7917-a17f-4224-874c-bac9763c7b19/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 9857, tid 9857, syscall 315, args 9857 140255245358592 56 0 39 140255245358592.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691443304	Marionette	INFO	Listening on port 35535
+1590691443332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691443469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepf0817"
+1590691443589	Marionette	INFO	Stopped listening on port 42843
+1590691443953	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilepf0817/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691444109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691444109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691444110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691444110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10063, tid 10063, syscall 315, args 10063 140559816001472 56 0 32 140559816001472.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://417fe6a6-8efa-4e97-aba0-7944a7d575a8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 10088, tid 10088, syscall 315, args 10088 139823698072832 56 0 43 139823698072832.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691445364	Marionette	INFO	Stopped listening on port 43647
+1590691445453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesw352S"
+1590691446162	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilesw352S/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691446388	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691446389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691446389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691446389	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691446577	Marionette	INFO	Listening on port 45963
+1590691446628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691446668	Marionette	INFO	Stopped listening on port 38461
+1590691446892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelz6cQ9"
+1590691447449	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilelz6cQ9/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+Sandbox: seccomp sandbox violation: pid 10347, tid 10347, syscall 315, args 10347 140190407904192 56 0 16 140190407904192.
+1590691447674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7N8D6K"
+1590691447694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691447694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691447694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691447694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10377, tid 10377, syscall 315, args 10377 140704051562240 56 0 35 140704051562240.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3894edb0-4f42-4fb5-8c14-912b4254e87b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691448173	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile7N8D6K/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691448401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691448402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691448402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691448402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 10533, tid 10533, syscall 315, args 10533 140267806444032 56 0 23 140267806444032.
+1590691448883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDY7w9r"
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+Sandbox: seccomp sandbox violation: pid 10569, tid 10569, syscall 315, args 10569 139745812450176 56 0 17 139745812450176.
+JavaScript error: moz-extension://a088a0c8-7b36-4858-8ff1-2eb13c3ca7b3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691449727	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileDY7w9r/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 10714, tid 10714, syscall 315, args 10714 139791014544704 56 0 42 139791014544704.
+1590691450000	Marionette	INFO	Listening on port 40033
+1590691450166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691450307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691450307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691450308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691450308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10752, tid 10752, syscall 315, args 10752 139633225917184 56 0 49 139633225917184.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4c83abcc-1e39-4c8e-8487-f78c9a993485/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691452016	Marionette	INFO	Listening on port 35775
+1590691452058	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 10872, tid 10872, syscall 315, args 10872 140060705045184 56 0 20 140060705045184.
+1590691452486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUCXIVy"
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5cb46674-25e1-4548-bfc0-4c1ae74d1859/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 10934, tid 10934, syscall 315, args 10934 140526508807744 56 0 38 140526508807744.
+1590691453463	Marionette	INFO	Listening on port 36569
+1590691453549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691453718	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileUCXIVy/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691453852	Marionette	INFO	Stopped listening on port 45963
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691454314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691454314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691454314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691454315	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 11130, tid 11130, syscall 315, args 11130 139799178159488 56 0 41 139799178159488.
+1590691455525	Marionette	INFO	Listening on port 39295
+1590691455552	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 11170, tid 11170, syscall 315, args 11170 139695089695360 56 0 21 139695089695360.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7d7e28cb-c7a2-40a0-a48c-c5125b59cb2d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691456295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Ni5x6"
+1590691456786	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile9Ni5x6/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691457004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691457004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691457004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691457004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691457046	Marionette	INFO	Listening on port 43757
+1590691457127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691457257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGdf6st"
+1590691457438	Marionette	INFO	Stopped listening on port 40033
+[Parent 10156, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1590691457886	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileGdf6st/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+Sandbox: seccomp sandbox violation: pid 11437, tid 11437, syscall 315, args 11437 140282928801792 56 0 31 140282928801792.
+1590691458322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691458326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691458327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691458327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 11464, tid 11464, syscall 315, args 11464 140251117151552 56 0 42 140251117151552.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://64c6e4fa-7419-42f4-adfe-5aa2dfd4ae34/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 11569, tid 11569, syscall 315, args 11569 140255454066048 56 0 41 140255454066048.
+1590691460082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilealcMEx"
+Sandbox: seccomp sandbox violation: pid 11595, tid 11595, syscall 315, args 11595 140560853107968 56 0 43 140560853107968.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://15680f20-a1f0-45ac-909d-06c419cbe948/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691460751	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilealcMEx/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691460777	Marionette	INFO	Listening on port 37663
+1590691460783	Marionette	INFO	Stopped listening on port 36569
+1590691460843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691461294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691461297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691461298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691461299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691462380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyhOsVX"
+1590691462435	Marionette	INFO	Listening on port 46727
+1590691462557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691462716	Marionette	INFO	Stopped listening on port 39295
+1590691462777	Marionette	INFO	Stopped listening on port 35775
+Sandbox: seccomp sandbox violation: pid 11834, tid 11834, syscall 315, args 11834 140132114269504 56 0 42 140132114269504.
+1590691463123	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileyhOsVX/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+Sandbox: seccomp sandbox violation: pid 11899, tid 11899, syscall 315, args 11899 140240856790272 56 0 43 140240856790272.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f696fe89-097e-45e3-8a38-da9f55f3907b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691463568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691463568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691463569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691463569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 12017, tid 12017, syscall 315, args 12017 139862771795264 56 0 42 139862771795264.
+Sandbox: seccomp sandbox violation: pid 12044, tid 12044, syscall 315, args 12044 140151040959808 56 0 37 140151040959808.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7b40c386-6256-4735-838b-b4130dc44fde/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691464983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKqyDOj"
+1590691465012	Marionette	INFO	Listening on port 35955
+1590691465021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691465234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepF50yJ"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691465537	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileKqyDOj/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691465908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691465908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691465909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691465909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691465940	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilepF50yJ/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691466030	Marionette	INFO	Stopped listening on port 37915
+1590691466318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691466318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691466319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691466319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691466385	Marionette	INFO	Stopped listening on port 43757
+1590691466388	Marionette	INFO	Stopped listening on port 35955
+1590691466965	Marionette	INFO	Listening on port 37769
+1590691467034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691467309	Marionette	INFO	Stopped listening on port 37769
+Sandbox: seccomp sandbox violation: pid 12358, tid 12358, syscall 315, args 12358 139979714132736 56 0 19 139979714132736.
+1590691467885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecw1ltf"
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+1590691468086	Marionette	INFO	Stopped listening on port 37663
+JavaScript error: moz-extension://b5dfca3a-287a-402d-a51b-b90b725c4b8d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 12394, tid 12394, syscall 315, args 12394 140599255921920 56 0 43 140599255921920.
+Sandbox: seccomp sandbox violation: pid 12430, tid 12430, syscall 315, args 12430 140436363838848 56 0 41 140436363838848.
+Sandbox: seccomp sandbox violation: pid 12518, tid 12518, syscall 315, args 12518 140678353058432 56 0 21 140678353058432.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+1590691468883	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilecw1ltf/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: moz-extension://4d02443a-f328-4bba-9eac-7c07028427f5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691469246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691469246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691469246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691469246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691469653	Marionette	INFO	Stopped listening on port 35927
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691470707	Marionette	INFO	Listening on port 39693
+1590691470726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691470733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePQhdec"
+Sandbox: seccomp sandbox violation: pid 12724, tid 12724, syscall 315, args 12724 139924527540672 56 0 23 139924527540672.
+1590691471636	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilePQhdec/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+Sandbox: seccomp sandbox violation: pid 12807, tid 12807, syscall 315, args 12807 139708275567296 56 0 20 139708275567296.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7b4b9e34-a194-4da5-88cd-6c11b8de7acc/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691471893	Marionette	INFO	Listening on port 33879
+1590691471976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691472024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691472024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691472024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691472024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691472085	Marionette	INFO	Stopped listening on port 33879
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691472771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN7BeVn"
+1590691472959	Marionette	INFO	Stopped listening on port 35535
+1590691473062	Marionette	INFO	Stopped listening on port 46727
+Sandbox: seccomp sandbox violation: pid 12955, tid 12955, syscall 315, args 12955 139707643263744 56 0 19 139707643263744.
+1590691473580	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileN7BeVn/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+Sandbox: seccomp sandbox violation: pid 13007, tid 13007, syscall 315, args 13007 139977113668288 56 0 20 139977113668288.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://1b8cdfb1-90d6-4147-937c-5d7a76043c49/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691473898	Marionette	INFO	Listening on port 40677
+1590691473989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691473996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691473997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691473997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691473997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 13154, tid 13154, syscall 315, args 13154 140673633413888 56 0 19 140673633413888.
+Sandbox: seccomp sandbox violation: pid 13201, tid 13201, syscall 315, args 13201 140234529687488 56 0 32 140234529687488.
+1590691475043	Marionette	INFO	Listening on port 45889
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+1590691475079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1564fd93-d8aa-4b87-b91a-36d340d04754/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691475133	Marionette	INFO	Stopped listening on port 45889
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691476219	Marionette	INFO	Listening on port 46645
+1590691476290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691477952	Marionette	INFO	Stopped listening on port 39693
+1590691479595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVnswZR"
+1590691479820	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileVnswZR/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691479924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691479925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691479925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691479925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 13410, tid 13410, syscall 315, args 13410 140489452055232 56 0 20 140489452055232.
+Sandbox: seccomp sandbox violation: pid 13435, tid 13435, syscall 315, args 13435 140006482188992 56 0 20 140006482188992.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://08ac3507-69f6-469b-846f-131c52e1762c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691481067	Marionette	INFO	Stopped listening on port 40677
+1590691481554	Marionette	INFO	Listening on port 37931
+1590691481606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691481648	Marionette	INFO	Stopped listening on port 37931
+1590691482827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebf7K6d"
+1590691483072	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilebf7K6d/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691483197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691483197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691483197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691483197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691483359	Marionette	INFO	Stopped listening on port 46645
+Sandbox: seccomp sandbox violation: pid 13634, tid 13634, syscall 315, args 13634 140442057464512 56 0 20 140442057464512.
+Sandbox: seccomp sandbox violation: pid 13659, tid 13659, syscall 315, args 13659 139979722500672 56 0 20 139979722500672.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a3cccd5c-9203-4c1d-914f-7222023a5a83/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691484754	Marionette	INFO	Listening on port 44753
+1590691484845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691484890	Marionette	INFO	Stopped listening on port 44753
+1590691485124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuEFR2f"
+1590691485375	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileuEFR2f/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691485485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691485485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691485486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691485486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 13847, tid 13847, syscall 315, args 13847 139956167660864 56 0 42 139956167660864.
+Sandbox: seccomp sandbox violation: pid 13872, tid 13872, syscall 315, args 13872 140492208785216 56 0 34 140492208785216.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c6d3dedc-6700-47bc-a53b-688073b349d3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691486952	Marionette	INFO	Listening on port 43591
+1590691487037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691487074	Marionette	INFO	Stopped listening on port 43591
+1590691881046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehFQB6k"
+1590691881307	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilehFQB6k/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691881406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691881406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691881406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691881406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14234, tid 14234, syscall 315, args 14234 139687968807616 56 0 20 139687968807616.
+Sandbox: seccomp sandbox violation: pid 14259, tid 14259, syscall 315, args 14259 139877012726464 56 0 47 139877012726464.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://be14c390-eec7-469f-8e81-8e754a94e5bb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691882700	Marionette	INFO	Listening on port 35717
+1590691882762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691882893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled0FIZi"
+1590691883184	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofiled0FIZi/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691883313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691883314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691883314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691883314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14433, tid 14433, syscall 315, args 14433 139914169735872 56 0 20 139914169735872.
+Sandbox: seccomp sandbox violation: pid 14458, tid 14458, syscall 315, args 14458 139640151624384 56 0 20 139640151624384.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f97afe9a-704b-4b2b-ac50-03eadf4ef8d0/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691884820	Marionette	INFO	Listening on port 44621
+1590691884908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691884994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile625yJx"
+1590691885239	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile625yJx/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691885342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691885342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691885342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691885342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14650, tid 14650, syscall 315, args 14650 140273915147968 56 0 35 140273915147968.
+Sandbox: seccomp sandbox violation: pid 14675, tid 14675, syscall 315, args 14675 139921154296512 56 0 20 139921154296512.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2a17d0a6-1a01-491e-829c-4d22af8a8504/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691886776	Marionette	INFO	Listening on port 37221
+1590691886826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691886924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuLAnmo"
+1590691887163	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileuLAnmo/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691887262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691887262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691887262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691887262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14860, tid 14860, syscall 315, args 14860 139703689184640 56 0 41 139703689184640.
+Sandbox: seccomp sandbox violation: pid 14885, tid 14885, syscall 315, args 14885 140643762689920 56 0 33 140643762689920.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2246db91-83c2-4fe8-9258-bf7090351325/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691888941	Marionette	INFO	Listening on port 38677
+1590691889036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691890137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebwFnZE"
+1590691890365	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilebwFnZE/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691890470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691890470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691890470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691890470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15082, tid 15082, syscall 315, args 15082 140336191276352 56 0 42 140336191276352.
+Sandbox: seccomp sandbox violation: pid 15107, tid 15107, syscall 315, args 15107 139805344311936 56 0 21 139805344311936.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ee42e2d6-71cc-4afd-b1a2-a9e8b2dee5c2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691892226	Marionette	INFO	Listening on port 43123
+1590691892256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691892409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebU7cs8"
+1590691892732	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilebU7cs8/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691892873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691892873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691892873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691892873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15289, tid 15289, syscall 315, args 15289 140217097009600 56 0 23 140217097009600.
+Sandbox: seccomp sandbox violation: pid 15314, tid 15314, syscall 315, args 15314 140154971084416 56 0 37 140154971084416.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a8dfd687-b083-4da2-9842-2fa434dade58/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691894670	Marionette	INFO	Stopped listening on port 35717
+1590691894860	Marionette	INFO	Listening on port 36915
+1590691894932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691895073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecaj3Ep"
+1590691895419	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilecaj3Ep/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691895554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691895555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691895555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691895555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15504, tid 15504, syscall 315, args 15504 140339200689472 56 0 42 140339200689472.
+1590691896305	Marionette	INFO	Stopped listening on port 38677
+Sandbox: seccomp sandbox violation: pid 15529, tid 15529, syscall 315, args 15529 140489906181440 56 0 42 140489906181440.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+1590691896513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiWdb1b"
+JavaScript error: moz-extension://17567a64-8846-40be-976e-df74d1685a87/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691897035	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileiWdb1b/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691897371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691897371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691897372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691897372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691897644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVuYu0Z"
+1590691898123	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileVuYu0Z/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691898223	Marionette	INFO	Listening on port 33609
+1590691898309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691898367	Marionette	INFO	Stopped listening on port 37221
+1590691898443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691898443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691898443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691898443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15796, tid 15796, syscall 315, args 15796 139988488567232 56 0 23 139988488567232.
+1590691898571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley88Y4y"
+Sandbox: seccomp sandbox violation: pid 15838, tid 15838, syscall 315, args 15838 140294819649408 56 0 33 140294819649408.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://73a79e14-4d44-4db2-b8dd-0063ac73f743/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691899332	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofiley88Y4y/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691899662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691899662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691899663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691899663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 16009, tid 16009, syscall 315, args 16009 140392190626752 56 0 16 140392190626752.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://18a78bd7-d8ab-40d6-aa27-61492318c322/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 16042, tid 16042, syscall 315, args 16042 140713159542016 56 0 43 140713159542016.
+1590691900668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3L8xfP"
+1590691900683	Marionette	INFO	Listening on port 44875
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691900756	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 16115, tid 16115, syscall 315, args 16115 139983111619968 56 0 41 139983111619968.
+Sandbox: seccomp sandbox violation: pid 16189, tid 16189, syscall 315, args 16189 139976678729088 56 0 41 139976678729088.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c86e7aa9-3bb5-441e-8ef8-0b58482ab35c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691901389	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile3L8xfP/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691901839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691901840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691901840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691901840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691902533	Marionette	INFO	Listening on port 43145
+1590691902648	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 16370, tid 16370, syscall 315, args 16370 140602021932096 56 0 13 140602021932096.
+1590691903410	Marionette	INFO	Listening on port 36985
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+1590691903608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://dc39aae6-05b9-4a43-b574-ce7ca83527d3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 16398, tid 16398, syscall 315, args 16398 140064080541056 56 0 41 140064080541056.
+1590691904025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNSaLMq"
+1590691904212	Marionette	INFO	Stopped listening on port 43123
+[Parent 14997, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691905016	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileNSaLMq/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691905377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691905377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691905378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691905378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691906159	Marionette	INFO	Listening on port 35243
+1590691906244	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 16621, tid 16621, syscall 315, args 16621 140193065761536 56 0 19 140193065761536.
+Sandbox: seccomp sandbox violation: pid 16647, tid 16647, syscall 315, args 16647 140553364859392 56 0 20 140553364859392.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://433e17a7-907d-4a59-aac1-7b71c38b61d8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691906928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelJ2DHP"
+1590691907377	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilelJ2DHP/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691907561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691907561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691907561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691907561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691907940	Marionette	INFO	Listening on port 40723
+1590691908006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691908030	Marionette	INFO	Stopped listening on port 44875
+1590691908200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileawVuAe"
+Sandbox: seccomp sandbox violation: pid 16887, tid 16887, syscall 315, args 16887 139632735397824 56 0 32 139632735397824.
+1590691909022	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileawVuAe/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://359a612c-fa83-49cf-8399-26818cd4a47f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 16932, tid 16932, syscall 315, args 16932 140384845089408 56 0 17 140384845089408.
+1590691909493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691909494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691909494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691909494	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691909746	Marionette	INFO	Stopped listening on port 43145
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691910542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem7MmqC"
+Sandbox: seccomp sandbox violation: pid 17036, tid 17036, syscall 315, args 17036 140311358846272 56 0 42 140311358846272.
+Sandbox: seccomp sandbox violation: pid 17074, tid 17074, syscall 315, args 17074 140362172887744 56 0 49 140362172887744.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://fa5c8919-dea2-464a-b742-fd2fbf3849a1/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691911213	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilem7MmqC/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691911462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691911462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691911463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691911463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691911581	Marionette	INFO	Listening on port 33789
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691911661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691912032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebl2x0b"
+Sandbox: seccomp sandbox violation: pid 17306, tid 17306, syscall 315, args 17306 139887191164480 56 0 38 139887191164480.
+1590691912512	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilebl2x0b/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691912589	Marionette	INFO	Listening on port 37527
+1590691912639	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 17357, tid 17357, syscall 315, args 17357 140537345852736 56 0 42 140537345852736.
+1590691912821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691912821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691912822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691912822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a7bf32dd-a381-481e-94db-affbb7974f54/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691912997	Marionette	INFO	Stopped listening on port 36985
+[Parent 15847, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1590691913327	Marionette	INFO	Stopped listening on port 35243
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 17464, tid 17464, syscall 315, args 17464 140484464023744 56 0 28 140484464023744.
+Sandbox: seccomp sandbox violation: pid 17483, tid 17483, syscall 315, args 17483 139693411054912 56 0 42 139693411054912.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://66e75da1-8fc7-4478-aa7c-ce1d187b9b66/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691914537	Marionette	INFO	Listening on port 46073
+1590691914593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691915153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWEC7aW"
+1590691915253	Marionette	INFO	Stopped listening on port 40723
+1590691915527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletYh3sS"
+1590691915618	Marionette	INFO	Stopped listening on port 46073
+1590691915746	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileWEC7aW/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691916193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691916193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691916193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691916193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691916237	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofiletYh3sS/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691916299	Marionette	INFO	Listening on port 33397
+1590691916387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691916643	Marionette	INFO	Stopped listening on port 33397
+1590691916725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691916725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691916726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691916726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691916771	Marionette	INFO	Stopped listening on port 44621
+[Parent 17251, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+Sandbox: seccomp sandbox violation: pid 17839, tid 17839, syscall 315, args 17839 139725269031680 56 0 19 139725269031680.
+Sandbox: seccomp sandbox violation: pid 17865, tid 17865, syscall 315, args 17865 140263777642240 56 0 35 140263777642240.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://78d8ff4c-3d28-41eb-9e92-0f686bd48508/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 17887, tid 17887, syscall 315, args 17887 139925500844736 56 0 20 139925500844736.
+Sandbox: seccomp sandbox violation: pid 17941, tid 17941, syscall 315, args 17941 140650275812672 56 0 42 140650275812672.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d922ba1c-b22b-4321-9c0f-2f235578b728/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691918777	Marionette	INFO	Stopped listening on port 33789
+[Parent 16709, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1590691919128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBPDZj1"
+1590691919292	Marionette	INFO	Stopped listening on port 33609
+1590691919366	Marionette	INFO	Listening on port 43505
+1590691919411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691919836	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileBPDZj1/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691919936	Marionette	INFO	Listening on port 42715
+1590691919972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691920093	Marionette	INFO	Stopped listening on port 42715
+1590691920158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691920158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691920159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691920159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691921065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5p1UAo"
+Sandbox: seccomp sandbox violation: pid 18203, tid 18203, syscall 315, args 18203 140159438977344 56 0 26 140159438977344.
+Sandbox: seccomp sandbox violation: pid 18273, tid 18273, syscall 315, args 18273 139802758802176 56 0 19 139802758802176.
+1590691921645	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile5p1UAo/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://667d68ae-8c4a-4dc2-9bf6-27ea787e98ee/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590691921928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691921928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691921929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691921929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691921937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN7OukA"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691922516	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileN7OukA/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691922845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691922846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691922846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691922846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691923088	Marionette	INFO	Stopped listening on port 36915
+1590691923110	Marionette	INFO	Stopped listening on port 37527
+[Parent 15209, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+Sandbox: seccomp sandbox violation: pid 18435, tid 18435, syscall 315, args 18435 140079713777024 56 0 41 140079713777024.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+Sandbox: seccomp sandbox violation: pid 18470, tid 18470, syscall 315, args 18470 140558960149760 56 0 43 140558960149760.
+JavaScript error: moz-extension://df8b15a0-8f68-4c46-a1db-19fe2dbc9de2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 18550, tid 18550, syscall 315, args 18550 139873491593344 56 0 29 139873491593344.
+1590691923924	Marionette	INFO	Listening on port 37621
+1590691923970	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 18580, tid 18580, syscall 315, args 18580 139773563034240 56 0 21 139773563034240.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://cc4ee9a5-1753-43bc-a97e-630ffe90e2d2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691925203	Marionette	INFO	Listening on port 40319
+1590691925215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691925281	Marionette	INFO	Stopped listening on port 40319
+1590691925479	Marionette	INFO	Listening on port 45927
+1590691925567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691926576	Marionette	INFO	Stopped listening on port 43505
+1590691928215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE84yqe"
+1590691928439	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileE84yqe/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691928537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691928537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691928538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691928538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 18857, tid 18857, syscall 315, args 18857 139632342886336 56 0 32 139632342886336.
+Sandbox: seccomp sandbox violation: pid 18882, tid 18882, syscall 315, args 18882 140591391459968 56 0 21 140591391459968.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2c3b1662-c9cc-4c96-9f44-abbe65136bd2/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691930072	Marionette	INFO	Listening on port 36001
+1590691930131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691930173	Marionette	INFO	Stopped listening on port 36001
+1590691931105	Marionette	INFO	Stopped listening on port 37621
+1590691932639	Marionette	INFO	Stopped listening on port 45927
+[Parent 18342, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1590691932756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9asQOo"
+1590691933008	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile9asQOo/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691933108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691933108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691933109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691933109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 19078, tid 19078, syscall 315, args 19078 140520951315136 56 0 20 140520951315136.
+Sandbox: seccomp sandbox violation: pid 19103, tid 19103, syscall 315, args 19103 140343487150720 56 0 21 140343487150720.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://321b67eb-ab1c-4bab-b1a9-71b7809acea4/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691934298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileidawft"
+1590691934600	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileidawft/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590691934718	Marionette	INFO	Listening on port 44475
+1590691934733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590691934733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590691934733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590691934733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590691934774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691934833	Marionette	INFO	Stopped listening on port 44475
+Sandbox: seccomp sandbox violation: pid 19302, tid 19302, syscall 315, args 19302 139828425881344 56 0 35 139828425881344.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+Sandbox: seccomp sandbox violation: pid 19327, tid 19327, syscall 315, args 19327 139997343857280 56 0 21 139997343857280.
+JavaScript error: moz-extension://b4f54554-6a5a-46b7-abc2-49161a374c02/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590691936273	Marionette	INFO	Listening on port 36881
+1590691936328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590691936377	Marionette	INFO	Stopped listening on port 36881
+1590692033099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevNWMxl"
+1590692033364	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilevNWMxl/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692033464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692033464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692033464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692033464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 19635, tid 19635, syscall 315, args 19635 139925564570048 56 0 23 139925564570048.
+Sandbox: seccomp sandbox violation: pid 19660, tid 19660, syscall 315, args 19660 140034078891072 56 0 14 140034078891072.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7c9a34ca-3a9b-40f6-a647-81b52122c1cb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692034798	Marionette	INFO	Listening on port 37593
+1590692034811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692034912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK6jJmX"
+1590692035210	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileK6jJmX/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692035335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692035336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692035336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692035336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 19854, tid 19854, syscall 315, args 19854 139789855816448 56 0 19 139789855816448.
+Sandbox: seccomp sandbox violation: pid 19877, tid 19877, syscall 315, args 19877 140564455781696 56 0 42 140564455781696.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://41b6e2f5-a35c-49ef-a34b-b30fc3d32500/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692036991	Marionette	INFO	Listening on port 45395
+1590692037022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692037114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGpeavK"
+1590692037380	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileGpeavK/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692037519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692037519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692037519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692037520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 20073, tid 20073, syscall 315, args 20073 140651618568896 56 0 20 140651618568896.
+Sandbox: seccomp sandbox violation: pid 20098, tid 20098, syscall 315, args 20098 140331452732928 56 0 35 140331452732928.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://9b700f61-f4e4-4a40-b215-eda813c2e572/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692039160	Marionette	INFO	Listening on port 36717
+1590692039241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692039343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaP8wRk"
+1590692039657	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileaP8wRk/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692039832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692039832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692039832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692039832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 20286, tid 20286, syscall 315, args 20286 140283972339072 56 0 41 140283972339072.
+Sandbox: seccomp sandbox violation: pid 20311, tid 20311, syscall 315, args 20311 140347863947264 56 0 31 140347863947264.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c7686476-3f64-4727-b812-fb04fd9faf15/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692041934	Marionette	INFO	Listening on port 43229
+1590692041960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692042091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5qjCbV"
+1590692042524	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile5qjCbV/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692042660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692042660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692042660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692042660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 20504, tid 20504, syscall 315, args 20504 140465083282752 56 0 42 140465083282752.
+Sandbox: seccomp sandbox violation: pid 20529, tid 20529, syscall 315, args 20529 139759532070912 56 0 31 139759532070912.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8502c1d1-add7-4fbb-a43b-4f4d5c825e95/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692044747	Marionette	INFO	Listening on port 44947
+1590692044808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692044920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWVOrLO"
+1590692045213	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileWVOrLO/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692045365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692045365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692045365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692045366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 20723, tid 20723, syscall 315, args 20723 140031914330816 56 0 20 140031914330816.
+Sandbox: seccomp sandbox violation: pid 20748, tid 20748, syscall 315, args 20748 140359965635840 56 0 43 140359965635840.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5d5531ec-1fed-4b49-88d9-ca23f7c6c07c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692046857	Marionette	INFO	Stopped listening on port 37593
+1590692047460	Marionette	INFO	Listening on port 44383
+1590692047533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692047626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletiuqRG"
+1590692047978	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofiletiuqRG/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692048145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692048146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692048146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692048146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692048629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejiZMMU"
+Sandbox: seccomp sandbox violation: pid 20966, tid 20966, syscall 315, args 20966 140520923253696 56 0 16 140520923253696.
+Sandbox: seccomp sandbox violation: pid 21034, tid 21034, syscall 315, args 21034 139787543762688 56 0 35 139787543762688.
+1590692048996	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilejiZMMU/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://23a7cf7e-b410-4022-a4cc-cb5c5d27af10/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692049160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692049160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692049160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692049160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692049276	Marionette	INFO	Stopped listening on port 43229
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 21138, tid 21138, syscall 315, args 21138 140010115708224 56 0 42 140010115708224.
+Sandbox: seccomp sandbox violation: pid 21165, tid 21165, syscall 315, args 21165 140130434442496 56 0 43 140130434442496.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0e012829-aace-42c7-ab1b-7652f753de02/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692050787	Marionette	INFO	Listening on port 39715
+1590692050840	Marionette	INFO	Stopped listening on port 45395
+1590692050877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692051150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4coibg"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692051444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyZ5U9E"
+1590692052403	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile4coibg/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692052696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692052696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692052696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692052696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692052723	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileyZ5U9E/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692052981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692052981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692052981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692052982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692053261	Marionette	INFO	Listening on port 38285
+1590692053340	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 21490, tid 21490, syscall 315, args 21490 140281021445760 56 0 37 140281021445760.
+1590692053952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevcNEhW"
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f1d0ae36-bfe8-4c93-8325-ec439ea16c7d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 21515, tid 21515, syscall 315, args 21515 140387827324480 56 0 34 140387827324480.
+Sandbox: seccomp sandbox violation: pid 21603, tid 21603, syscall 315, args 21603 140216748899264 56 0 16 140216748899264.
+1590692054585	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilevcNEhW/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 21651, tid 21651, syscall 315, args 21651 140144988567296 56 0 35 140144988567296.
+1590692054888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692054888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692054889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692054889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a8af5079-0c71-4f08-b5bf-530be2eba75d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692055817	Marionette	INFO	Stopped listening on port 36717
+[Parent 19983, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Sandbox: seccomp sandbox violation: pid 21784, tid 21784, syscall 315, args 21784 139976705865024 56 0 42 139976705865024.
+1590692057187	Marionette	INFO	Listening on port 35921
+1590692057263	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 21820, tid 21820, syscall 315, args 21820 140059531826048 56 0 44 140059531826048.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5cbaf67d-7b4d-437b-b29c-d6cd52831083/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692057706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1K2Od1"
+1590692058022	Marionette	INFO	Listening on port 35673
+1590692058103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692058471	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile1K2Od1/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692058711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692058711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692058711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692058711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692058936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMxlvgA"
+1590692059365	Marionette	INFO	Listening on port 39679
+1590692059409	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileMxlvgA/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692059427	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 22138, tid 22138, syscall 315, args 22138 140625575552384 56 0 41 140625575552384.
+1590692059657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692059657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692059657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692059657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 22160, tid 22160, syscall 315, args 22160 140606255166784 56 0 42 140606255166784.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://726eee96-fa64-43be-88be-62d00043e46a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692060483	Marionette	INFO	Stopped listening on port 38285
+Sandbox: seccomp sandbox violation: pid 22244, tid 22244, syscall 315, args 22244 139972887951360 56 0 31 139972887951360.
+Sandbox: seccomp sandbox violation: pid 22270, tid 22270, syscall 315, args 22270 140124861426176 56 0 23 140124861426176.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://068fec47-c15d-466b-9c3c-1b0a713948ef/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692062192	Marionette	INFO	Listening on port 40939
+1590692062251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692062916	Marionette	INFO	Listening on port 35505
+1590692062921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebCGhNr"
+1590692062961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692063365	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilebCGhNr/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692063467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1hVFKp"
+1590692063668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692063668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692063668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692063668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692064032	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile1hVFKp/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692064262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692064262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692064262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692064262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 22596, tid 22596, syscall 315, args 22596 140417929820096 56 0 32 140417929820096.
+Sandbox: seccomp sandbox violation: pid 22630, tid 22630, syscall 315, args 22630 140529612528320 56 0 20 140529612528320.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://be8dcf65-2830-46d9-98c2-c9452ffa4cdb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 22674, tid 22674, syscall 315, args 22674 140536495454208 56 0 31 140536495454208.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692065325	Marionette	INFO	Stopped listening on port 35673
+Sandbox: seccomp sandbox violation: pid 22710, tid 22710, syscall 315, args 22710 140409102911488 56 0 31 140409102911488.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://6b448b65-48f0-47aa-92f4-793c8c6fb57a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692066111	Marionette	INFO	Stopped listening on port 35921
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692066551	Marionette	INFO	Stopped listening on port 39679
+1590692066708	Marionette	INFO	Listening on port 43235
+1590692066781	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692066879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ega8b"
+1590692067534	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile3ega8b/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692067702	Marionette	INFO	Listening on port 44397
+1590692067804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692067806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692067806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692067807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692067807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692068042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoS8hVU"
+1590692068441	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileoS8hVU/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692068479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ViCPz"
+1590692068774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692068775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692068779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692068779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692068831	Marionette	INFO	Stopped listening on port 44397
+Sandbox: seccomp sandbox violation: pid 23041, tid 23041, syscall 315, args 23041 140692299167040 56 0 42 140692299167040.
+1590692069181	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofile3ViCPz/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692069316	Marionette	INFO	Stopped listening on port 43235
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5af94f66-ea58-435b-afd7-4d41728dbc92/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 23129, tid 23129, syscall 315, args 23129 139764749047104 56 0 42 139764749047104.
+1590692069504	Marionette	INFO	Stopped listening on port 44383
+1590692069590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692069590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692069591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692069591	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 22422, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1590692070071	Marionette	INFO	Stopped listening on port 35505
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 23249, tid 23249, syscall 315, args 23249 140184493733888 56 0 31 140184493733888.
+Sandbox: seccomp sandbox violation: pid 23285, tid 23285, syscall 315, args 23285 140128355015296 56 0 21 140128355015296.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://dfca5577-3dd3-4931-9f5a-b13b9e9d8613/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 23347, tid 23347, syscall 315, args 23347 140306361412352 56 0 19 140306361412352.
+1590692071596	Marionette	INFO	Stopped listening on port 44947
+1590692071761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX7cV4X"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692071841	Marionette	INFO	Listening on port 44449
+[Parent 20421, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-FteunY/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1590692071948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5a6ebbbe-7243-44c7-8f8b-e59f01510dbc/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 23414, tid 23414, syscall 315, args 23414 139719128411136 56 0 14 139719128411136.
+1590692072201	Marionette	INFO	Stopped listening on port 44449
+1590692072317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles9vQ1J"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 670: TypeError: this.tablesData[table] is undefined
+1590692072595	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileX7cV4X/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692072999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692072999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692072999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692073002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692073161	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofiles9vQ1J/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692073529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692073529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692073530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692073530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692073553	Marionette	INFO	Listening on port 35289
+1590692073587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692073721	Marionette	INFO	Stopped listening on port 35289
+1590692074497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexrdbvk"
+Sandbox: seccomp sandbox violation: pid 23737, tid 23737, syscall 315, args 23737 139709655430976 56 0 31 139709655430976.
+1590692074677	Marionette	INFO	Listening on port 39125
+1590692074772	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 23778, tid 23778, syscall 315, args 23778 140076510243840 56 0 15 140076510243840.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://6f29cd62-bbad-44d9-8dc1-45521a9692b5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 23839, tid 23839, syscall 315, args 23839 139623473063232 56 0 42 139623473063232.
+1590692075282	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilexrdbvk/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://63dc77a5-97df-4870-a799-cba839ce2370/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692075636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692075636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692075636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692075636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 23892, tid 23892, syscall 315, args 23892 140280973219328 56 0 39 140280973219328.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692076586	Marionette	INFO	Stopped listening on port 40939
+Sandbox: seccomp sandbox violation: pid 23996, tid 23996, syscall 315, args 23996 140705896310080 56 0 42 140705896310080.
+Sandbox: seccomp sandbox violation: pid 24035, tid 24035, syscall 315, args 24035 140496133670208 56 0 42 140496133670208.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://09612d8a-76bb-4365-a505-e6668a50c1c5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692077275	Marionette	INFO	Listening on port 37737
+1590692077315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692077396	Marionette	INFO	Stopped listening on port 39715
+1590692077461	Marionette	INFO	Stopped listening on port 37737
+1590692077524	Marionette	INFO	Listening on port 36985
+1590692077576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692078497	Marionette	INFO	Listening on port 40341
+1590692078537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692081932	Marionette	INFO	Stopped listening on port 39125
+1590692083563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIWVmMx"
+1590692083800	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileIWVmMx/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692083907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692083907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692083907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692083907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 24302, tid 24302, syscall 315, args 24302 139714055408576 56 0 16 139714055408576.
+Sandbox: seccomp sandbox violation: pid 24327, tid 24327, syscall 315, args 24327 140079469311872 56 0 32 140079469311872.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3951963f-deb7-41cb-9153-52d1af4a83c1/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692084759	Marionette	INFO	Stopped listening on port 36985
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692085518	Marionette	INFO	Listening on port 36365
+1590692085577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692085614	Marionette	INFO	Stopped listening on port 40341
+1590692085621	Marionette	INFO	Stopped listening on port 36365
+1590692086527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexPTjkO"
+1590692086823	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofilexPTjkO/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1590692086929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692086929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692086929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692086929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1590692087283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMabtlY"
+Sandbox: seccomp sandbox violation: pid 24562, tid 24562, syscall 315, args 24562 140434497373504 56 0 42 140434497373504.
+1590692087572	addons.xpi-utils	WARN	addMetadata: Add-on test@autoew.net is invalid: Error: File /tmp/rust_mozprofileMabtlY/extensions/test@autoew.net does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+Sandbox: seccomp sandbox violation: pid 24618, tid 24618, syscall 315, args 24618 140694875432704 56 0 35 140694875432704.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4ae12e6d-6475-467f-888e-bb5622c7a92b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692087744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590692087744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590692087745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590692087745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+Sandbox: seccomp sandbox violation: pid 24709, tid 24709, syscall 315, args 24709 139776056507072 56 0 20 139776056507072.
+Sandbox: seccomp sandbox violation: pid 24742, tid 24742, syscall 315, args 24742 139712607201984 56 0 20 139712607201984.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://054856e3-03bd-48df-aca6-6a9bae1847cb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1590692088657	Marionette	INFO	Listening on port 34339
+1590692088741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692088789	Marionette	INFO	Stopped listening on port 34339
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590692089525	Marionette	INFO	Listening on port 39903
+1590692089596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590692089637	Marionette	INFO	Stopped listening on port 39903

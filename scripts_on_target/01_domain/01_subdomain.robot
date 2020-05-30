@@ -6,7 +6,7 @@ Suite Setup    Create temp dir
 Suite Teardown    Gather all subdomains and delete temporary directory
 
 **** Variables ****
-${domain}=    rapyd.net
+${domain}=    lyft.com
 ${sublister}=    Sublist3r
 ${subbrute}=    subbrute
 ${knockpy}=    knock
